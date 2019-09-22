@@ -4,7 +4,6 @@ import { Provider } from "react-redux";
 import * as serviceWorker from "./serviceWorker";
 import "./index.css";
 
-import Game from "./App";
 import AppTodo from "./todo/components/AppTodo";
 import { createStore } from "redux";
 import todoApp from "./todo/reducers";
